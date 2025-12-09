@@ -1,7 +1,7 @@
 > *Beyond Good & Evil = Great!*         
 > -- Ilya Zosima
 
-# G
+# [G](https://ukb-dt.github.io/inv-11/)
 ## Ndala
 
 **Riddle: what is beyond good & evil? I’d call that binary the local maxima that has preoccupied humanity 95% of the time. Therefore, …**
